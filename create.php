@@ -1,6 +1,6 @@
 <?php 
 class CreateTicket
-{
+{ 
 	private $username 			= 'root';
 	private $servername 		= 'localhost';
 	private $password 			= '';
