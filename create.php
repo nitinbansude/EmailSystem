@@ -1,4 +1,4 @@
-<?php 
+<?php
 class CreateTicket
 { 
 	private $username 			= 'root';
@@ -6,6 +6,7 @@ class CreateTicket
 	private $password 			= '';
 	private $dbname 			= 'support_new';
 	private $conn 				= '';
+	
 	
 	public function __construct()
 	{
